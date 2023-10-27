@@ -23,3 +23,9 @@ fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
 ```
+
+### task list 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+

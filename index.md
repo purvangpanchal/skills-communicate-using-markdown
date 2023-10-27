@@ -6,3 +6,7 @@
 ###### ALL the way to this `<h6>` one
 
 I just added some content to test out the headers
+
+### Adding an image 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+

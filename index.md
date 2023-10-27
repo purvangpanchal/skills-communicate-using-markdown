@@ -10,3 +10,16 @@ I just added some content to test out the headers
 ### Adding an image 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+### Adding some code 
+
+##### javascript 
+``` javascript
+var myVar = "Hello, world!";
+```
+
+##### python 
+``` python
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
+```
